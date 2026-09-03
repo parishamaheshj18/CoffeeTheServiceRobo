@@ -88,7 +88,7 @@ The main challenge was getting the different hardware and software components to
 
 The original project documentation contains additional details about Coffee, including the general workflow, mapping capabilities, image detection, and electrical components.
 
-![Project Documentation](./Parisha Joshi - Coffee: The service robo.pdf)
+[Project Documentation](./Parisha%20Joshi%20-%20Coffee%3A%20The%20service%20robo.pdf)
 
 ## Source Code
 
