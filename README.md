@@ -4,8 +4,7 @@ Coffee is a service robot that I worked on as part of my Master's project. The g
 
 The robot uses LiDAR and RGB-D cameras to understand its surroundings. It can be manually controlled using a joystick, navigate through a room, and create 2D and 3D maps using SLAM.
 
-![image]([https://github.com](https://github.com/parishamaheshj18/CoffeeTheServiceRobo/blob/main/Image1.png))
-
+![Coffee Service Robot](./Image1.png)
 
 ## Project Overview
 
